@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MarcosChair
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science, Machine Learning, and Statistics
+      - Expertise in R, Python, SQL, Java
 - 🌱 I’m currently learning about natural language processing and artificial neural networks.
 - 💞️ I’m looking to collaborate!
 - 📫 How to reach me - E-mail: mashdzva@gmail.com
